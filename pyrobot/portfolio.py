@@ -81,6 +81,3 @@ class Portfolio():
 
     def total_market_value(self):
         pass
-
-
-code .
